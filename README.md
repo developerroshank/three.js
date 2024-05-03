@@ -66,7 +66,7 @@ Cloning the repo with all its history results in a ~2 GB download. If you don't 
 git clone --depth=1 https://github.com/mrdoob/three.js.git
 ```
 
-### Change log
+### Change log 
 
 [Releases](https://github.com/mrdoob/three.js/releases)
 
